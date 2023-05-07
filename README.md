@@ -1,5 +1,5 @@
 # Movies
-Projeto [JAVA-SPRING] - [REACT] - [MongoDB]
+Projeto # JAVA-SPRING - REACT - MongoDB
 
 ## 
 
