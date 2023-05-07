@@ -1,5 +1,6 @@
-package dev.mach.movies;
+package dev.mach.movies.repository;
 
+import dev.mach.movies.entity.Movie;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

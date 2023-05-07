@@ -1,4 +1,4 @@
-package dev.mach.movies;
+package dev.mach.movies.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
